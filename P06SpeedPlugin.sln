@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P06SpeedPlugin", "P06SpeedPlugin\P06SpeedPlugin.csproj", "{2B275610-9DE7-46DC-A608-7567733E0280}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B275610-9DE7-46DC-A608-7567733E0280}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B275610-9DE7-46DC-A608-7567733E0280}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B275610-9DE7-46DC-A608-7567733E0280}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B275610-9DE7-46DC-A608-7567733E0280}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3351CA62-682A-4218-AE57-2B870B17C44D}
+	EndGlobalSection
+EndGlobal
